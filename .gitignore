@@ -1,0 +1,7 @@
+
+# C extensions
+
+*.cookie
+*.dll
+csv/
+

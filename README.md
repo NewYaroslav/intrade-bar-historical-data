@@ -1,2 +1,5 @@
 # intrade-bar-historical-data
-Исторические данные котировок брокера https://intrade.bar/
+
+Исторические данные котировок брокера [intrade.bar](https://intrade.bar/67204)
+
+## Описание

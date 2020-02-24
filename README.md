@@ -9,13 +9,13 @@
 
 Брокер поддерживает на данный момент следующие валютные пары (22 шт): 
 
-	EURUSD,USDJPY,~GBPUSD~,USDCHF,
-	USDCAD,EURJPY,AUDUSD,NZDUSD,
-	EURGBP,EURCHF,AUDJPY,GBPJPY,
-	~CHFJPY~,EURCAD,AUDCAD,CADJPY,
-	NZDJPY,AUDNZD,GBPAUD,EURAUD,
-	GBPCHF,~EURNZD~,AUDCHF,GBPNZD,
-	~GBPCAD~,XAUUSD
+EURUSD,USDJPY,~GBPUSD~,USDCHF,
+USDCAD,EURJPY,AUDUSD,NZDUSD,
+EURGBP,EURCHF,AUDJPY,GBPJPY,
+~CHFJPY~,EURCAD,AUDCAD,CADJPY,
+NZDJPY,AUDNZD,GBPAUD,EURAUD,
+GBPCHF,~EURNZD~,AUDCHF,GBPNZD,
+~GBPCAD~,XAUUSD
 	
 **Зачеркнутые валютные пары не доступны для торговли у брокера [intrade.bar](https://intrade.bar/67204), но их можно скачать при помощи программы intrade-bar-downloader-1.2. Программа версии 1.3 поддерживает только 22 валютные пары**
 
